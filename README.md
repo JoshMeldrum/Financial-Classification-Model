@@ -1,4 +1,4 @@
-### Financial-Classification-Model
+### Financial-Classification-Model: Loan Maturity Success Rate
 ## Objective
 Lets analyze a dataset of customer bank loans. The idea is to construct reliable classification machine learning models, compare perforamnces, and draw conclusions based on insights brought to life form the data. Ideally the conclusions will provide a reliable prediction model advising credit unions to assess risk from a tactical standpoint while making strong business decisions. Utilizing such risk analyses gives them an edge on loan allocation and has the potential to return higher quarterly numbers.
 ## Findings
