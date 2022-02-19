@@ -1,4 +1,8 @@
 ### Financial-Classification-Model
 Provide a reliable prediction model for credit unions to identify risk and make strong business decisions
-## Contents
-Six .ipynb files can be found in this repo, labeled as 'looks', they numbered to indicate the chronological process taken to develop several models: Linear Regression, KNeighbor, Random Forest, and a simple mathematic model. The 1st look splits the data into 6 maneagable datasets by the year the liquor was sold, the 2nd look uses the earlier 3 datasets to create functions for cleaning 10,000s of Nan values, the 3rd look applies the functions to the later 3 files (along with a few additions to the functions), the 4th look converts the datasets to necessary columns and appropriate datatypes, the 5th look examines outliers, applies transformations to the data to prep it for modeling, and the 6th and last look runs the data through the models. Inside the 'csv files' folder in this repo can be found the dictionary files used in Look 2, the cleaned files resulting from Look 4, and the files used in modeling year 2012 in Look 6.
+## Introduction
+I found this dataset in search of something financial related as I'm interested in financial analysis. Providing a risk analysis to a credit union gives them an edge on loan allocation and has the potential to return higher quarterly numbers.
+## Findings
+My dataset consists of mostly relevant data, only a few columns were dropped and the rest were cleaned up without much trouble. The final structure of my dataframes allowed my three Machine Learning Models conducted (Logistic Regression, KNN, and Random Forest) to return relatively results. 
+## Conclusion
+The 
